@@ -1,4 +1,4 @@
-package Programas.maestroJavaJedi;
+package Programas.imperativa.maestroJavaJedi;
 /*
  * Cálculo del área de un círculo: Escribir un programa en Java que calcule el área
 de un círculo con un radio de 5 unidades. Buscar la fórmula con la que se

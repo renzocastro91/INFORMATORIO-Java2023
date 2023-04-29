@@ -1,4 +1,4 @@
-package Programas.padawanJavaJedi;
+package Programas.imperativa.padawanJavaJedi;
 /*Descontador: Se le solicita que guarde un número en un espacio de memoria y
 *decrementar dicho número 20 veces sin usar asignación. ¿Que operador podría
 *usar para hacerlo?

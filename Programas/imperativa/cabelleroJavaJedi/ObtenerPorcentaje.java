@@ -1,4 +1,4 @@
-package Programas.cabelleroJavaJedi;
+package Programas.imperativa.cabelleroJavaJedi;
 /*
  * Obtener porcentaje : Dados dos números, uno real y el otro entero. Obtenga el
 porcentaje que indique el segundo número del primer número. 

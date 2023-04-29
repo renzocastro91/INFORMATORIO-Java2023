@@ -1,4 +1,4 @@
-package Programas.maestroJavaJedi;
+package Programas.imperativa.maestroJavaJedi;
 import java.util.Scanner;
 /*
  * Conversión de grados Celsius a grados Fahrenheit : Escribir un programa en

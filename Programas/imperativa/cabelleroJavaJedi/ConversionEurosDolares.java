@@ -1,4 +1,4 @@
-package Programas.cabelleroJavaJedi;
+package Programas.imperativa.cabelleroJavaJedi;
 import java.util.Scanner;
 
 /*

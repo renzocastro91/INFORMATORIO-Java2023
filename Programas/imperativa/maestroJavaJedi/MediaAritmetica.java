@@ -1,4 +1,4 @@
-package Programas.maestroJavaJedi;
+package Programas.imperativa.maestroJavaJedi;
 /*
  * Cálculo de la media aritmética:
 Escribir un programa en Java que calcule la media aritmética de un conjunto de

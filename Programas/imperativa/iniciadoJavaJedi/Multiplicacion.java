@@ -1,4 +1,4 @@
-package Programas.iniciadoJavaJedi;
+package Programas.imperativa.iniciadoJavaJedi;
 import java.util.Scanner;
 /*
  * El resultado de la suma entre la multiplicación de dos números reales y la multiplicación de dos números enteros será un número real. 

@@ -1,4 +1,4 @@
-package Programas.padawanJavaJedi;
+package Programas.imperativa.padawanJavaJedi;
 /*
  * Caracteres : Guarde en distintos espacios de memoria los caracteres de su nombre
 en unicode y luego imprimirlos por pantalla. ¿Por qué no puede usar "" en el char?

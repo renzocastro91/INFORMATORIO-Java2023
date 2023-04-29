@@ -1,4 +1,4 @@
-package Programas.maestroJavaJedi;
+package Programas.imperativa.maestroJavaJedi;
 import java.util.Scanner;
 /*
  * Cálculo de la energía cinética:

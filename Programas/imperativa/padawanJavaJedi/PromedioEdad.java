@@ -1,4 +1,4 @@
-package Programas.padawanJavaJedi;
+package Programas.imperativa.padawanJavaJedi;
 /*
  * Promedio de edad : Guarde en diferentes espacios de memoria distintos valores de
 edad y los nombres de esas personas, luego saque su promedio e imprima por

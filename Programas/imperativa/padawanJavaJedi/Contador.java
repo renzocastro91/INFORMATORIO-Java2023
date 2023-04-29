@@ -1,4 +1,4 @@
-package Programas.padawanJavaJedi;
+package Programas.imperativa.padawanJavaJedi;
 
 /*
 Contador: Se le solicita que guarde un número en un espacio de memoria e

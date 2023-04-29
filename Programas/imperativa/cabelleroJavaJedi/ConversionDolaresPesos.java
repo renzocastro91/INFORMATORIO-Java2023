@@ -1,4 +1,4 @@
-package Programas.cabelleroJavaJedi;
+package Programas.imperativa.cabelleroJavaJedi;
 import java.util.Scanner;
 /*
  * Conversión de dólares a pesos: Escribir un programa en Java que solicite al

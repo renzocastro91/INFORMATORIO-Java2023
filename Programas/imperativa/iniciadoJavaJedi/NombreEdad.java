@@ -1,4 +1,4 @@
-package Programas.iniciadoJavaJedi;
+package Programas.imperativa.iniciadoJavaJedi;
 
 public class NombreEdad {
     public static void main(String[] args) {

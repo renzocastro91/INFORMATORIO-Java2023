@@ -1,4 +1,4 @@
-package Programas.iniciadoJavaJedi;
+package Programas.imperativa.iniciadoJavaJedi;
 import java.util.Scanner;
 
 

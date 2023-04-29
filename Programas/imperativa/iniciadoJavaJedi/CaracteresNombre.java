@@ -1,4 +1,4 @@
-package Programas.iniciadoJavaJedi;
+package Programas.imperativa.iniciadoJavaJedi;
 /*
  * En Java, las comillas dobles ("") se utilizan para delimitar cadenas de caracteres (tipo String), 
  * mientras que las comillas simples ('') se utilizan para delimitar caracteres (tipo char).
