@@ -1,6 +1,6 @@
-package Programas.poo;
+package Programas.poo.primeraClase;
 
-import Programas.poo.dominio.Vehiculo;
+import Programas.poo.primeraClase.dominio.Vehiculo;
 
 public class AppVehiculos {
     public static void main(String[] args) {

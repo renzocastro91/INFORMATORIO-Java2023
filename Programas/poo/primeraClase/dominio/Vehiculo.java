@@ -1,4 +1,4 @@
-package Programas.poo.dominio;
+package Programas.poo.primeraClase.dominio;
 
 public class Vehiculo {
     //Atributos, Caracterísiticas
