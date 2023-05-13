@@ -1,6 +1,7 @@
 package Programas.poo.escenario2.domain;
 
 import java.time.LocalDateTime;
+
 public class PrecioTachado {
     private double valor;
     private LocalDateTime fechaDeCarga;

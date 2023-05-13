@@ -1,5 +1,6 @@
 package Programas.poo.escenario2.domain;
 
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -7,6 +8,12 @@ public class Categoria {
     private String nombre;
     private String descripcion;
     private boolean estaElProductoDisponible;
+
+    public Categoria(String nombre, String descripcion, boolean estaElProductoDisponible) {
+        this.nombre = nombre;
+        this.descripcion = descripcion;
+        this.estaElProductoDisponible = estaElProductoDisponible;
+    }
 
     private List<Producto> listaProductos = new ArrayList<>();
 
